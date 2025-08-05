@@ -1,7 +1,7 @@
 import React from 'react';
 import { FaApple } from 'react-icons/fa';
 
-import youthp from '../assets/images/Youthp.jpg';
+import youthp from '../assets/images/youthp.jpg';
 import hijack from '../assets/images/hijack.jpg';
 import tedLasso from '../assets/images/ted-lasso.jpg';
 import morningShow from '../assets/images/the-morning-show.jpg';
